@@ -1,0 +1,4 @@
+flask
+pandas==1.1.1
+pystan==2.19.1.1
+fbprophet==0.6.0
